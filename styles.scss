@@ -88,7 +88,7 @@ button, input { font: inherit; }
 .nft-details div:last-child { text-align: right; }
 .nft-details span { color: $muted; font: 12px/1.2 "Space Mono", monospace; }
 .nft-details strong { font: 14px/1.2 "Space Mono", monospace; }
-.highlight-section { position: relative; min-height: 640px; display: flex; align-items: end; overflow: hidden; background: #392e51 url("/images/mashroom.png") center 42% / cover no-repeat; }
+.highlight-section { position: relative; min-height: 640px; display: flex; align-items: end; overflow: hidden; background: #392e51 url("./images/mashroom.png") center 42% / cover no-repeat; }
 .highlight-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(162, 89, 255, .02) 0%, rgba(162, 89, 255, .18) 45%, #a259ff 100%); }
 .highlight-inner { position: relative; display: flex; align-items: end; justify-content: space-between; gap: 30px; padding-block: 60px; }
 .creator-pill { width: fit-content; display: flex; align-items: center; gap: 12px; padding: 10px 20px; border-radius: 20px; background: $surface; }
